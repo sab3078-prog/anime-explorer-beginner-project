@@ -42,7 +42,10 @@ The expanded detail view showing full synopsis, episode count, and score when an
 
 ## Project Demo
 
-<video src="https://github.com/sab3078-prog/anime-explorer-beginner-project/issues/1#issue-5426738476" width="100%" controls muted autoplay></video>
+## Project Demo
+
+▶️ **[Click Here to Watch the Project Demo Video](https://github.com/sab3078-prog/anime-explorer-beginner-project/issues/1#issue-5426738476)**
+
 
 Getting Started Locally
 Follow these steps to run the project on your local machine:

@@ -41,11 +41,9 @@ The expanded detail view showing full synopsis, episode count, and score when an
 4.MODEL VIDEO:
 [View project demo video on Google Drive](https://drive.google.com/file/d/1zloYt0KxYJ4ECt08FDGYNe4tfkMsAK7E/view?usp=sharing)
 
-## Project Demo
 
-## Project Demo
 
-▶️ **[Click Here to Watch the Project Demo Video](https://github.com/sab3078-prog/anime-explorer-beginner-project/issues/1#issue-5426738476)**
+
 
 
 Getting Started Locally

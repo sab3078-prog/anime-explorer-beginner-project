@@ -39,6 +39,7 @@ The expanded detail view showing full synopsis, episode count, and score when an
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/de57d10d-f2fd-47ec-9d33-a939d4658fbd" />
 
 4.MODEL VIDEO:
+[View project demo video on Google Drive](https://drive.google.com/file/d/1zloYt0KxYJ4ECt08FDGYNe4tfkMsAK7E/view?usp=sharing)
 
 ## Project Demo
 

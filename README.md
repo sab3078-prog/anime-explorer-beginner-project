@@ -38,6 +38,11 @@ The responsive anime grid populated after performing a search.
 The expanded detail view showing full synopsis, episode count, and score when an anime card is clicked.
 <img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/de57d10d-f2fd-47ec-9d33-a939d4658fbd" />
 
+4.MODEL VIDEO:
+
+## Project Demo
+
+<video src="https://github.com/sab3078-prog/anime-explorer-beginner-project/issues/1#issue-5426738476" width="100%" controls muted autoplay></video>
 
 Getting Started Locally
 Follow these steps to run the project on your local machine:
